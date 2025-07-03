@@ -56,13 +56,6 @@ This project demonstrates a low-cost, real-time **weather monitoring system** us
 
 ---
 
-## 🗂 Block Diagram
-
-🖼️ View the full system architecture in the file:  
-[`Minor Project 2 PPT.pptx`](Minor%20Project%202%20PPT.pptx)
-
----
-
 ## 📚 References
 
 A few of the sources that inspired this work:
